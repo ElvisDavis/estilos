@@ -1,0 +1,19 @@
+/*Selector Universal*/
+*{
+    background-color:bisque ;
+}
+/*h1{
+    color: red !important;
+    text-align: center;
+}*/
+
+
+/*SElectores de tipo ID*/
+#titulo{
+    color: red;
+    text-align: right;
+}
+/*Selector tipo clase*/
+.letra-grande{
+    color: red;
+}
